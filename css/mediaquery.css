@@ -1,0 +1,76 @@
+
+@media screen and (max-width: 320px) { 
+
+  
+
+	.qblogo  {
+      display: none;
+
+	}
+
+	.main-logo{
+		max-width: 50%;
+	}    
+
+	h1 {
+		font-size: 16px;
+
+	}
+
+	h5 {		
+		clear: left;
+		font-size: 10px;
+		}
+
+	.tallylogo {
+		display: none;
+	}
+
+	  .mediaquery-xs  {
+      display: none;
+    }
+
+    .msquery{
+      margin: 0 auto;
+      width:25%;
+    }
+
+    .phone-no{  
+        font-size: 0.75em;
+        font-weight: normal;       
+        margin: 0;
+        clear: left;
+    }
+
+     .mailto,.mobno{
+     
+     	display: none;
+     }
+      .mail {
+      	display:none;
+      }
+
+       .slides, .mobapp, footer {
+      	
+      	display: none;
+      }
+
+      .nav,.nav ul, .nav li {
+      	margin:0;
+      }
+
+  .nav li a {
+  	font-size: 10px;
+  	padding: 5px;
+  	line-height: 15px;
+
+  }
+
+
+  li.mobapp {
+  	display: none;
+  }
+       
+	 
+}
+
